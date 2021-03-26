@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    background-color: silver;
+}
+.ul-section{
+color: salmon;
+margin-left: 80px;
+}
+.h2-section{
+    margin: 70px;
+    padding: 50px;
+    color: white;
+    background-color: rebeccapurple;
+}
+.p-section{
+    color: royalblue;
+    margin-left: 70px;
+    text-align: justify;
+}
+.h2-footer{
+    margin: 70px;
+    padding: 50px;
+    color: white;
+    background-color: rebeccapurple;
+}
+.img-footer{
+    margin: 70px;
+}
+.ol-footer{
+    color: royalblue;
+    margin-left: 80px;
+    text-align: justify;
+    padding-bottom: 50px;
+}
